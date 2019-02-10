@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  ubupy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    privileged: true
+    volumes:
+      - "../:/docker"
+    environment:
+      TZ: Asia/Tokyo
+    tty: true
