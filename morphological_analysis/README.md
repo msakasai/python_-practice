@@ -164,5 +164,7 @@ morpheme: 1
 ```
 
 ## 参考
+
 https://su-gi-rx.com/archives/922
+
 http://ailaby.com/janome/
