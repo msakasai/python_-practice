@@ -1,1 +1,1 @@
-# python_-practice
+# Python練習用
